@@ -1,0 +1,74 @@
+****CSS****
+    VDO 14/10/2023
+    https://youtu.be/YLi1ga5SbAU
+    VDO 15/10/2023
+    https://youtu.be/8gzOueac3k4
+    
+
+****CSS Home work*****
+    https://flexboxfroggy.com/
+    solved CSS homework
+    https://youtu.be/FtuA-jtSp1k
+
+***HTML****
+    VDO 21/10/2023
+    https://youtu.be/Xdaauup2Ql4
+    VDO 22/10/2023
+    https://youtu.be/fNZsV0EKKh8
+
+****Home work HTML + CSS****
+    https://github.com/Kicks-Me/homework-css-html.git
+    ==>Solve project HTML + CSS
+    https://youtu.be/aaE9zNFGlq8
+
+****JavaScript****
+    VDO 28/10/2023
+    https://www.youtube.com/watch?v=giMYLVfblY0
+    VDO 29/10/2023
+    https://youtu.be/e60HftA2usc
+    VDO 04/11/2023
+    https://youtu.be/oTwhLH_rnIk
+
+****Source Code*****
+    https://github.com/Kicks-Me/css-html-js-php-class-1.git
+    
+****Home work HTML + CSS + JS****
+    ==>Source Code homework <<homeowork 1>>
+    https://github.com/Kicks-Me/css-html-js-php-class-1.git
+    ===>VDO Telling homework
+    https://youtu.be/RZHEB5S3A_E
+    ===>VDO Solve homework
+    https://youtu.be/OO9x8S7Df2I
+
+
+****VDO Project final in HTML + CSS + JS*****
+    VDO 05/11/2023
+    https://youtu.be/NrCJbeZNqQE
+    VDO 18/11/2023
+    https://youtu.be/vlce8-PbKgA
+    VDO 19/11/2023
+    https://youtu.be/Xgtq9MXJUrA
+
+
+****How to install XAMPP for Apache + MySql Db*****
+    https://youtu.be/aL9N95u8wAY
+
+****Bootstrap + PHP + MySql + Db****
+    VDO 25/11/2023
+    https://youtu.be/U7p7Rt71biw
+    VDO 26/11/2023
+    https://youtu.be/eTS4HCbj2ZQ
+    VDO 02/12/2023
+    https://youtu.be/lPjnN-0to_g
+    VDO 03/12/2023
+    https://youtu.be/i64eKZpzaiM
+    VDO 09/12/2023
+    https://youtu.be/05RBbk2JVFw
+    VDO 10/12/2023
+    https://youtu.be/4cjapCbJg2U
+
+****Project PHP + Mysql + Bootstrap****
+https://github.com/Kicks-Me/class_weekend_php_mysql.git
+
+****All VDO Link*****
+https://github.com/Kicks-Me/class_weekend_php_mysql/blob/main/script.txt
